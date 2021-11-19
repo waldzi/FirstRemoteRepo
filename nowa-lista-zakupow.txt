@@ -1,1 +1,3 @@
-banany 4.50
+banany 		4.50
+ziemniaki 	1.50
+cytryny 	8.50
