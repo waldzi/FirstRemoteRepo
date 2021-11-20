@@ -2,4 +2,5 @@ banany 		4.50
 marchewka 	1.50
 ziemniaki 	1.50
 cytryny 	8.50
+truskawki	12.50
 pomarańcze	6.50
